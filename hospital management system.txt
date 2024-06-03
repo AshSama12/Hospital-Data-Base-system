@@ -1,0 +1,6 @@
+ hospital management system
+
+doctor
+patient
+pharmacist
+receptionist
